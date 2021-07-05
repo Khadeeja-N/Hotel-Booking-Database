@@ -33,7 +33,7 @@ def create_db_connection(host_name, user_name, user_password, db_name):
 
     return connection
 
-pw = "ComputerScience#" #MySQL Terminal password
+pw = "" #MySQL Terminal password
 db = "hotels" # Name of the database
 
 # Creates the database
